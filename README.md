@@ -246,11 +246,7 @@ flowchart LR
 
 <div align="center">
 
-<img width="32%" src="https://github-readme-stats.vercel.app/api?username=mohammedsohail7790&show_icons=true&theme=dark&hide_border=true&bg_color=05060A&title_color=E5E7EB&text_color=94A3B8&icon_color=3B82F6&ring_color=3B82F6" />
-<img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedsohail7790&layout=compact&theme=dark&hide_border=true&bg_color=05060A&title_color=E5E7EB&text_color=94A3B8" />
-<img width="32%" src="https://streak-stats.demolab.com?user=mohammedsohail7790&theme=dark&hide_border=true&background=05060A&ring=3B82F6&fire=3B82F6&currStreakLabel=E5E7EB" />
 
-<br/><br/>
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mohammedsohail7790&theme=react-dark&bg_color=05060A&color=3B82F6&line=3B82F6&point=E5E7EB&hide_border=true" />
 
