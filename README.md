@@ -1,140 +1,128 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Mohammed%20Sohail&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Solutions%20Architect%20%7C%20Generative%20AI%20Consultant&descAlignY=55&descSize=20"/>
-</p>
+<div align="center">
+  <img src="./assets/header.svg" alt="Mohammed Sohail — AI Systems Architect" width="100%"/>
+</div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=800&lines=Building+AI+Agents+that+run+real+businesses;Architecting+Multi-Agent+Systems+%26+Voice+AI;OpenAI+%7C+Claude+%7C+RAG+%7C+Vapi+%7C+Twilio+%7C+ElevenLabs;Currently+Architecting+Call+IQ+%E2%80%94+Multi-Tenant+Voice+AI+Platform"/>
-</p>
+<br/>
 
-<p align="center">
-  <a href="https://linkedin.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/></a>
-  &nbsp;
-  <a href="https://github.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/></a>
-  &nbsp;
-  <a href="mailto:md.sohail.8618@gmail.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40"/></a>
-</p>
+I design and ship systems that make decisions, not just scripts that run tasks — voice agents that qualify leads on live calls, multi-agent networks that run business operations, and retrieval systems that make LLMs answer from real company data instead of guessing.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mohammedsohail&label=Profile%20Views&color=58A6FF&style=flat" alt="profile views"/>
-</p>
+Currently building **Call IQ** in production for a Dubai-based client, and taking on a small number of new independent consulting engagements.
 
----
+<br/>
 
-### 🧠 About Me
+## `01` Architecture — Call IQ
 
-```yaml
-name: Mohammed Sohail
-role: AI Solutions Architect / AI Engineer / Generative AI Consultant
-based_in: Bangalore, India
-current_focus: >
-  Architecting Call IQ — a multi-tenant AI Voice Agent platform for
-  lead qualification, appointment booking, call analytics & business automation
-experience: 4+ years
-specialties:
-  - Generative AI & LLM-powered applications
-  - Multi-Agent Systems & AI Orchestration
-  - Voice AI (Vapi, Twilio, ElevenLabs)
-  - RAG & Vector Search Systems
-  - Enterprise Automation & Business Intelligence Platforms
-availability: Open to independent consulting engagements (UAE / US / Global remote)
+Multi-tenant AI voice agent platform. Answers real calls, extracts structured data, routes emergencies, and writes CRM-ready summaries — for HVAC, plumbing, electrical, and real estate operators.
+
+```mermaid
+flowchart LR
+    A[Inbound Call] -->|PSTN / SIP| B(Twilio)
+    B --> C(Vapi Voice Runtime)
+    C --> D[Speech-to-Text]
+    D --> E{LLM Orchestration Layer}
+    E --> F[Structured Extraction]
+    E --> G[Issue Classification /\nEmergency Detection]
+    E --> H[ElevenLabs TTS]
+    H --> C
+    F --> I[(CRM-Ready Data Layer)]
+    G --> I
+    E --> J[Call Summarization]
+    J --> I
 ```
 
----
+## `02` Architecture — Multi-Agent Business Operations
 
-### ⚡ What I Build
+A board-of-agents model: five functional agents report structured findings up to an executive reporting layer, which returns priorities back down.
 
-- 🎙️ **AI Voice Agents** — end-to-end conversational pipelines that answer calls, qualify leads, and book appointments
-- 🤝 **Multi-Agent Systems** — Sales, Marketing, HR, Ops & Executive Reporting agents working together
-- 📚 **RAG & Knowledge Retrieval** — production-grade retrieval systems on vector databases
-- 🏗️ **AI Orchestration Frameworks** — LLM-driven workflow automation with API-first architecture
-- 📊 **Strategic Intelligence Systems** — board-level decision support powered by structured AI reasoning
-
----
-
-### 🛠️ Tech Stack
-
-**Generative AI & LLMs**
-
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/Anthropic%20Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/> <img src="https://img.shields.io/badge/Azure%20OpenAI-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white"/> <img src="https://img.shields.io/badge/RAG-6E56CF?style=for-the-badge"/> <img src="https://img.shields.io/badge/Vector%20DBs-FF6B6B?style=for-the-badge"/>
-
-**Voice AI**
-
-<img src="https://img.shields.io/badge/Vapi-000000?style=for-the-badge"/> <img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white"/> <img src="https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge"/>
-
-**Backend & APIs**
-
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45"/>
-</p>
-
-**Cloud & DevOps**
-
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45"/>
-</p>
-
-**Databases**
-
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="45" height="45"/>
-</p>
-
----
-
-### 🚀 Featured Project — Call IQ
-
-> **Multi-Tenant AI Voice Agent Platform** · `OpenAI` `Vapi` `Twilio` `ElevenLabs` `Python`
-
-An AI receptionist platform that answers calls, qualifies leads, books appointments, classifies issues, detects emergencies, and generates structured call summaries — built with CRM-ready architecture for HVAC, Plumbing, Electrical, and Real Estate businesses.
-
----
-
-### 💼 Currently
-
-```yaml
-role: AI Consultant (Contract) — Dubai, UAE (Remote)
-building:
-  - AI Strategic Intelligence System (board-level decision framework)
-  - Multi-agent Business Operations System (Sales / Marketing / CS / HR / Ops)
-open_to: New independent consulting engagements globally
+```mermaid
+flowchart TB
+    Exec{{Executive Reporting Agent}}
+    Sales[Sales Agent] <--> Exec
+    Marketing[Marketing Agent] <--> Exec
+    CS[Customer Service Agent] <--> Exec
+    HR[HR Agent] <--> Exec
+    Ops[Operations Agent] <--> Exec
 ```
 
+<br/>
+
+## `03` Capability Matrix
+
+```text
+GENERATIVE AI / LLM ENGINEERING     ████████████████████  expert
+MULTI-AGENT ORCHESTRATION           ███████████████████░  expert
+VOICE AI  (vapi · twilio · 11labs)  ███████████████████░  expert
+RAG / VECTOR RETRIEVAL              █████████████████░░░  advanced
+BACKEND  (python · fastapi)         ██████████████████░░  advanced
+CLOUD / DEVOPS  (aws · k8s · ci-cd) ███████████████░░░░░  proficient
+```
+
+<br/>
+
+## `04` Service Log
+
+```yaml
+service:  ai-consultant-contract
+status:   ACTIVE
+client:   Dubai, UAE (remote)
+uptime:   03/2026 — present
 ---
+- Architected Call IQ, a multi-tenant AI voice agent platform: lead
+  qualification, appointment booking, call analytics, automation
+- Built conversational pipelines across OpenAI, Vapi, Twilio, ElevenLabs
+- Designed CRM-ready integration architecture for service-industry
+  and real-estate deployments
+- Led the AI Strategic Intelligence System — a board-level decision
+  framework for evaluating business opportunities
+- Produced architecture docs, implementation roadmaps, deployment plans
+```
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mohammedsohail&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedsohail&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammedsohail&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-contribution-grid-snake.vercel.app/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
-
-> Replace every `mohammedsohail` placeholder above with your actual GitHub username, and follow the Snake Game GitHub Actions setup (see below) to activate the contribution snake.
-
+```yaml
+service:  generative-ai-applications-engineer
+status:   ARCHIVED
+client:   ISAN Data Systems Pvt. Ltd.
+uptime:   09/2025 — 01/2026
 ---
+- Built RAG + vector search systems for enterprise information retrieval
+- Shipped AI-powered workflow automation for internal business processes
+- Optimized prompt-engineering pipelines for response consistency
+```
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
-</p>
+```yaml
+service:  systems-application-environment-engineer
+status:   ARCHIVED
+client:   Rakuten India Enterprise Pvt. Ltd.
+uptime:   08/2022 — 07/2025
+---
+- Automated system health monitoring and operational workflows in Python
+- Owned root-cause analysis for production incidents
+- Ran SQL-based reporting and data-extraction pipelines
+```
 
-<h3 align="center">💬 Let's build something intelligent together</h3>
-<p align="center">📩 md.sohail.8618@gmail.com &nbsp;|&nbsp; 📍 Bangalore, India (Remote-first)</p>
+<details>
+<summary><code>05</code> Full deployment history (earlier roles)</summary>
+<br/>
+
+```yaml
+service:  it-infrastructure-automation-intern
+status:   ARCHIVED
+client:   COSS — with Prodevans & Red Hat
+uptime:   01/2022 — 07/2022
+---
+- Wrote Python automation scripts for Linux administration
+- Trained on RHCSA/RHCE fundamentals; hands-on with Docker, AWS, K8s
+```
+
+</details>
+
+<br/>
+
+## `06` Stack
+
+`Python` `FastAPI` `OpenAI` `Anthropic Claude` `Azure OpenAI` `Vapi` `Twilio` `ElevenLabs` `PostgreSQL` `MongoDB` `Redis` `Docker` `Kubernetes` `AWS` `Azure`
+
+<br/>
+
+<div align="center">
+<sub>Bangalore, India · remote-first · <a href="mailto:md.sohail.8618@gmail.com">md.sohail.8618@gmail.com</a></sub>
+</div>
