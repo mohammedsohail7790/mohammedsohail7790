@@ -1,3 +1,4 @@
+![Uploading WhatsApp Image 2026-07-07 at 4.18.04 PM.jpeg…]()
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,100:111111&height=180&section=header&text=MOHAMMED%20SOHAIL&fontSize=42&fontColor=E5E5E5&fontAlignY=40&desc=AI%20Solutions%20Architect%20%C2%B7%20Generative%20AI%20%26%20Voice%20AI%20Engineer&descSize=16&descAlignY=58&animation=fadeIn" />
