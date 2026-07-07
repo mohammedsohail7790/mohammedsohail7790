@@ -83,7 +83,6 @@ Production voice AI system handling lead qualification, appointment booking, str
 
 `OpenAI` `Claude` `Vapi` `Twilio` `ElevenLabs` `Python` `FastAPI`
 
-[Repository →](#) &nbsp;&nbsp;|&nbsp;&nbsp; [Live Demo →](#)
 
 ```mermaid
 %%{init: {'theme':'dark', 'themeVariables': {'primaryColor':'#0A0E17','primaryTextColor':'#E5E7EB','primaryBorderColor':'#3B82F6','lineColor':'#3B82F6','tertiaryColor':'#05060A'}}}%%
@@ -122,7 +121,7 @@ Board-level AI decision support producing SWOT analysis, market opportunity eval
 
 `OpenAI` `Claude` `Multi-Agent Workflows`
 
-[Repository →](#)
+
 
 ```mermaid
 %%{init: {'theme':'dark', 'themeVariables': {'primaryColor':'#0A0E17','primaryTextColor':'#E5E7EB','primaryBorderColor':'#3B82F6','lineColor':'#3B82F6'}}}%%
@@ -154,7 +153,7 @@ Multi-agent business operations system coordinating Sales, Marketing, Customer S
 
 `OpenAI` `Multi-Agent Systems` `Workflow Automation`
 
-[Repository →](#)
+
 
 ```mermaid
 %%{init: {'theme':'dark', 'themeVariables': {'primaryColor':'#0A0E17','primaryTextColor':'#E5E7EB','primaryBorderColor':'#3B82F6','lineColor':'#3B82F6'}}}%%
@@ -188,7 +187,7 @@ Semantic search and retrieval-augmented generation system for enterprise knowled
 
 `RAG` `Vector Search` `Azure AI`
 
-[Repository →](#)
+
 
 ```mermaid
 %%{init: {'theme':'dark', 'themeVariables': {'primaryColor':'#0A0E17','primaryTextColor':'#E5E7EB','primaryBorderColor':'#3B82F6','lineColor':'#3B82F6'}}}%%
