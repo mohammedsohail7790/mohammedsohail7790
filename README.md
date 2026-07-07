@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src=".header.png" alt="Mohammed Sohail — AI Solutions Architect" />
+<img width="100%" src="header.png" alt="Mohammed Sohail — AI Solutions Architect" />
 
 <br/><br/>
 
