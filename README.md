@@ -1,273 +1,303 @@
-![Uploading WhatsApp Image 2026-07-07 at 4.18.04 PM.jpeg…]()
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,100:111111&height=180&section=header&text=MOHAMMED%20SOHAIL&fontSize=42&fontColor=E5E5E5&fontAlignY=40&desc=AI%20Solutions%20Architect%20%C2%B7%20Generative%20AI%20%26%20Voice%20AI%20Engineer&descSize=16&descAlignY=58&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:05060A,50:0A0E17,100:05060A&height=260&section=header&text=MOHAMMED%20SOHAIL&fontSize=48&fontColor=E8E8E8&fontAlignY=38&desc=AI%20Solutions%20Architect%20%7C%20AI%20Engineer%20%7C%20Generative%20AI%20Consultant&descSize=15&descAlignY=52&animation=fadeIn" />
 
 <br/>
 
-<a href="#"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=900&color=B8B8B8&background=00000000&center=true&vCenter=true&width=680&lines=Architecting+Multi-Agent+AI+Systems+at+Scale;Building+Production-Grade+Voice+AI+Platforms;RAG+%7C+LLM+Orchestration+%7C+Enterprise+Automation;OpenAI+%C2%B7+Anthropic+Claude+%C2%B7+Vapi+%C2%B7+Twilio+%C2%B7+ElevenLabs" alt="typing-svg" /></a>
+<a href="#"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2600&pause=800&color=8E8FFA&background=00000000&center=true&vCenter=true&width=760&lines=Designing+and+building+intelligent+systems+that+automate...;...orchestrate%2C+and+elevate+how+businesses+operate.;Voice+AI+%C2%B7+Multi-Agent+Systems+%C2%B7+RAG+%C2%B7+AI+Automation" alt="typing-svg" /></a>
 
 <br/><br/>
 
-<a href="mailto:md.sohail.8618@gmail.com"><img src="https://img.shields.io/badge/-Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=E5E5E5" /></a>
-<a href="#"><img src="https://img.shields.io/badge/-LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=E5E5E5" /></a>
-<a href="#"><img src="https://img.shields.io/badge/-GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=E5E5E5" /></a>
-<a href="#"><img src="https://img.shields.io/badge/-Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=E5E5E5" /></a>
+<a href="#"><img src="https://img.shields.io/badge/GitHub-05060A?style=for-the-badge&logo=github&logoColor=E8E8E8" /></a>
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-05060A?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Portfolio-05060A?style=for-the-badge&logo=vercel&logoColor=E8E8E8" /></a>
+<a href="mailto:md.sohail.8618@gmail.com"><img src="https://img.shields.io/badge/Email-05060A?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
+
+<sub>📍 Bangalore, India &nbsp;·&nbsp; 📞 +91 8618957790 &nbsp;·&nbsp; ✉️ md.sohail.8618@gmail.com</sub>
 
 </div>
 
 <br/>
 
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" height="1">
-
-<br/>
-
-## `01` — Overview
-
-<table width="100%">
-<tr>
-<td width="70%" valign="top">
-
-**AI Engineer & AI Solutions Architect** with 4+ years of experience designing and shipping Generative AI systems for enterprise and independent clients — spanning **Voice AI platforms**, **multi-agent orchestration**, **RAG pipelines**, and **AI-driven business automation**.
-
-Currently architecting **Call IQ**, a multi-tenant AI Voice Agent platform, alongside board-level strategic intelligence systems and cross-functional AI operations frameworks for clients across the UAE and US markets.
-
-Focused on turning frontier LLM capability into dependable, production-grade infrastructure — not demos.
-
-</td>
-<td width="30%" valign="top">
-
-```
-$ whoami
-> ai_solutions_architect
-
-$ location
-> Bangalore, IN (Remote)
-
-$ status
-> Available — Contract
-> & Advisory Engagements
-
-$ focus
-> Voice AI · RAG
-> Multi-Agent Systems
-```
-
-</td>
-</tr>
-</table>
-
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" height="1">
-
-## `02` — Architecture Expertise
-
-<table width="100%">
-<tr>
-<td width="25%" align="center" valign="top">
-
-### Voice AI
-
-Real-time conversational pipelines with sub-second latency, structured call analytics, and emergency-aware routing.
-
-`Vapi` `Twilio` `ElevenLabs`
-`STT/TTS` `Telephony`
-
-</td>
-<td width="25%" align="center" valign="top">
-
-### Multi-Agent Systems
-
-Orchestrated agent hierarchies for Sales, Marketing, Ops, HR, and Executive Reporting with shared memory & tool access.
-
-`Agent Orchestration`
-`Tool Use` `LLM Routing`
-
-</td>
-<td width="25%" align="center" valign="top">
-
-### RAG & Retrieval
-
-Enterprise-scale vector search and context-aware generation over structured and unstructured data.
-
-`Vector DBs` `Embeddings`
-`Semantic Search`
-
-</td>
-<td width="25%" align="center" valign="top">
-
-### AI Automation
-
-End-to-end workflow automation connecting LLM reasoning to CRM, telephony, and internal business systems.
-
-`API Integrations`
-`Webhooks` `CI/CD`
-
-</td>
-</tr>
-</table>
-
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" height="1">
-
-## `03` — Featured Systems
-
-<br/>
-
-<table width="100%">
-<tr>
-<td width="100%">
-
-**`Call IQ`** — Multi-Tenant AI Voice Agent Platform
-<br/>
-<sub>Production system for AI receptionists that handle lead qualification, appointment booking, structured call summarization, and emergency detection across HVAC, real estate, and field-service verticals.</sub>
-
-`OpenAI` `Vapi` `Twilio` `ElevenLabs` `Python` `FastAPI`
-
-[`→ Live Demo`](#) &nbsp;·&nbsp; [`→ Case Study`](#) &nbsp;·&nbsp; [`→ Repository`](#)
-
-</td>
-</tr>
-<tr><td><br/></td></tr>
-<tr>
-<td width="100%">
-
-**`AI Strategic Intelligence System`** — Board-Level Decision Support
-<br/>
-<sub>Multi-agent system producing SWOT analysis, competitive assessment, and strategic recommendations through structured, board-style AI reasoning workflows.</sub>
-
-`OpenAI` `Claude` `Multi-Agent Workflows`
-
-[`→ Architecture Doc`](#) &nbsp;·&nbsp; [`→ Repository`](#)
-
-</td>
-</tr>
-<tr><td><br/></td></tr>
-<tr>
-<td width="100%">
-
-**`Business Operations AI Platform`** — Cross-Functional Agent Network
-<br/>
-<sub>Coordinated AI agents spanning Sales, Marketing, Customer Service, HR, and Operations, with executive-level reporting and business process automation.</sub>
-
-`OpenAI` `Multi-Agent Systems` `Automation`
-
-[`→ Overview`](#) &nbsp;·&nbsp; [`→ Repository`](#)
-
-</td>
-</tr>
-<tr><td><br/></td></tr>
-<tr>
-<td width="100%">
-
-**`RAG-Based Enterprise Documentation Engine`**
-<br/>
-<sub>Semantic search and context-aware retrieval system for enterprise knowledge bases, improving generation accuracy across structured and unstructured sources.</sub>
-
-`RAG` `Vector Search` `Azure AI`
-
-[`→ Repository`](#)
-
-</td>
-</tr>
-</table>
-
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" height="1">
-
-## `04` — Technology Ecosystem
-
-<table width="100%">
-<tr>
-<td valign="top" width="20%"><strong>Generative AI</strong></td>
-<td valign="top" width="80%">
-
-![OpenAI](https://img.shields.io/badge/OpenAI_GPT--4-0A0A0A?style=flat-square&logo=openai&logoColor=E5E5E5)
-![Claude](https://img.shields.io/badge/Anthropic_Claude-0A0A0A?style=flat-square&logo=anthropic&logoColor=E5E5E5)
-![Azure AI](https://img.shields.io/badge/Azure_OpenAI-0A0A0A?style=flat-square&logo=microsoftazure&logoColor=E5E5E5)
-![RAG](https://img.shields.io/badge/RAG-0A0A0A?style=flat-square)
-![Agents](https://img.shields.io/badge/Multi--Agent_Systems-0A0A0A?style=flat-square)
-
-</td>
-</tr>
-<tr>
-<td valign="top"><strong>Voice AI</strong></td>
-<td valign="top">
-
-![Vapi](https://img.shields.io/badge/Vapi-0A0A0A?style=flat-square)
-![Twilio](https://img.shields.io/badge/Twilio-0A0A0A?style=flat-square&logo=twilio&logoColor=E5E5E5)
-![ElevenLabs](https://img.shields.io/badge/ElevenLabs-0A0A0A?style=flat-square)
-![STT/TTS](https://img.shields.io/badge/STT_/_TTS-0A0A0A?style=flat-square)
-
-</td>
-</tr>
-<tr>
-<td valign="top"><strong>Backend & APIs</strong></td>
-<td valign="top">
-
-![Python](https://img.shields.io/badge/Python-0A0A0A?style=flat-square&logo=python&logoColor=E5E5E5)
-![FastAPI](https://img.shields.io/badge/FastAPI-0A0A0A?style=flat-square&logo=fastapi&logoColor=E5E5E5)
-![Flask](https://img.shields.io/badge/Flask-0A0A0A?style=flat-square&logo=flask&logoColor=E5E5E5)
-![REST](https://img.shields.io/badge/REST_APIs-0A0A0A?style=flat-square)
-
-</td>
-</tr>
-<tr>
-<td valign="top"><strong>Data & Storage</strong></td>
-<td valign="top">
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0A0A0A?style=flat-square&logo=postgresql&logoColor=E5E5E5)
-![MongoDB](https://img.shields.io/badge/MongoDB-0A0A0A?style=flat-square&logo=mongodb&logoColor=E5E5E5)
-![Redis](https://img.shields.io/badge/Redis-0A0A0A?style=flat-square&logo=redis&logoColor=E5E5E5)
-![Vector DB](https://img.shields.io/badge/Vector_Databases-0A0A0A?style=flat-square)
-
-</td>
-</tr>
-<tr>
-<td valign="top"><strong>Cloud & DevOps</strong></td>
-<td valign="top">
-
-![AWS](https://img.shields.io/badge/AWS-0A0A0A?style=flat-square&logo=amazonaws&logoColor=E5E5E5)
-![Azure](https://img.shields.io/badge/Azure-0A0A0A?style=flat-square&logo=microsoftazure&logoColor=E5E5E5)
-![Docker](https://img.shields.io/badge/Docker-0A0A0A?style=flat-square&logo=docker&logoColor=E5E5E5)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-0A0A0A?style=flat-square&logo=kubernetes&logoColor=E5E5E5)
-
-</td>
-</tr>
-</table>
-
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" height="1">
-
-## `05` — GitHub Analytics
-
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=REPLACE_WITH_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0A0A0A&title_color=E5E5E5&text_color=B8B8B8&icon_color=6E6E6E&ring_color=6E6E6E" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=REPLACE_WITH_GITHUB_USERNAME&layout=compact&theme=dark&hide_border=true&bg_color=0A0A0A&title_color=E5E5E5&text_color=B8B8B8" />
-
-<br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=REPLACE_WITH_GITHUB_USERNAME&theme=react-dark&bg_color=0A0A0A&color=B8B8B8&line=6E6E6E&point=E5E5E5&hide_border=true" />
+| 🧠 4+ | ⚙️ 15+ | 🔗 20+ | 📡 100K+ | ♾️ |
+|:---:|:---:|:---:|:---:|:---:|
+| **Years Experience** | **AI Projects Delivered** | **Systems Deployed** | **Calls Automated** | **Learning · Building · Scaling** |
 
 </div>
 
 <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" height="1">
 
-## `06` — Let's Build Something
+## `｜` What I Build
 
-<div align="center">
+<table width="100%">
+<tr>
+<td width="16.6%" align="center" valign="top">
 
-Open to contract engagements, technical advisory, and founding AI architect roles.
+**🧬 Generative AI**
+<sub>LLM applications, RAG systems, prompt engineering, fine-tuning</sub>
+
+</td>
+<td width="16.6%" align="center" valign="top">
+
+**🤖 AI Agents**
+<sub>Intelligent agents, multi-agent systems, agentic workflows</sub>
+
+</td>
+<td width="16.6%" align="center" valign="top">
+
+**🎙️ Voice AI**
+<sub>AI voice agents, receptionists, STT/TTS, real-time conversations</sub>
+
+</td>
+<td width="16.6%" align="center" valign="top">
+
+**📚 RAG & Knowledge**
+<sub>Vector search, semantic retrieval, enterprise knowledge systems</sub>
+
+</td>
+<td width="16.6%" align="center" valign="top">
+
+**⚙️ AI Automation**
+<sub>Workflow automation, business process orchestration</sub>
+
+</td>
+<td width="16.6%" align="center" valign="top">
+
+**🏢 Enterprise AI**
+<sub>Scalable solutions, integrations, cloud-native architectures</sub>
+
+</td>
+</tr>
+</table>
+
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" height="1">
+
+## `｜` Featured Projects
 
 <br/>
 
-<a href="mailto:md.sohail.8618@gmail.com"><img src="https://img.shields.io/badge/Email-md.sohail.8618%40gmail.com-111111?style=for-the-badge&logo=gmail&logoColor=E5E5E5" /></a>
+### 🏳️ `FLAGSHIP` — Call IQ
+**Multi-Tenant AI Voice Agent Platform**
+
+✅ AI Receptionists & Call Handling &nbsp;·&nbsp; ✅ Lead Qualification & Booking &nbsp;·&nbsp; ✅ Structured Call Analytics
+✅ Multi-Tenant Architecture &nbsp;·&nbsp; ✅ Twilio · Vapi · ElevenLabs · OpenAI
+
+[`📁 Repository`](#) &nbsp;·&nbsp; [`▶ Live Demo`](#)
+
+```mermaid
+%%{init: {'theme':'dark', 'themeVariables': {'primaryColor':'#12141c','primaryTextColor':'#e8e8e8','primaryBorderColor':'#6e6eff','lineColor':'#6e6eff','secondaryColor':'#0a0e17','tertiaryColor':'#05060A'}}}%%
+flowchart LR
+    A[📞 Inbound Call] --> B[Twilio Telephony Layer]
+    B --> C[Vapi Voice Orchestration]
+    C --> D[Speech-to-Text]
+    D --> E[LLM Reasoning Engine\nOpenAI / Claude]
+    E --> F{Intent Classified}
+    F -->|Lead| G[Lead Qualification Agent]
+    F -->|Booking| H[Appointment Scheduler]
+    F -->|Emergency| I[Emergency Detection & Escalation]
+    F -->|Support| J[Issue Classification Agent]
+    G --> K[(Structured Data Store)]
+    H --> K
+    I --> K
+    J --> K
+    K --> L[Call Summarization Engine]
+    L --> M[ElevenLabs Text-to-Speech]
+    M --> N[📞 Caller Response]
+    K --> O[CRM-Ready Integration Layer]
+    O --> P[(Multi-Tenant Analytics DB)]
+```
+
+<br/>
+
+### AI Strategic Intelligence System
+**AI Board of Directors — Strategic Decision Support**
+
+✅ SWOT & Market Analysis &nbsp;·&nbsp; ✅ Opportunity Evaluation &nbsp;·&nbsp; ✅ Competitive Intelligence
+✅ Strategic Recommendations &nbsp;·&nbsp; ✅ Multi-Agent Reasoning
+
+[`📁 Repository`](#)
+
+```mermaid
+%%{init: {'theme':'dark', 'themeVariables': {'primaryColor':'#12141c','primaryTextColor':'#e8e8e8','primaryBorderColor':'#a06eff','lineColor':'#a06eff'}}}%%
+flowchart TD
+    A[(Business & Market Data)] --> B[Data Ingestion Layer]
+    B --> C[Market Analysis Agent]
+    B --> D[Competitive Intelligence Agent]
+    B --> E[SWOT Reasoning Agent]
+    B --> F[Opportunity Evaluation Agent]
+    C --> G[Strategic Reasoning Orchestrator]
+    D --> G
+    E --> G
+    F --> G
+    G --> H[Board-Level Decision Framework]
+    H --> I[Strategic Recommendations Engine]
+    I --> J[📊 Executive Report Output]
+```
+
+<br/>
+
+### Business Operations AI Platform
+**Multi-Agent Business Operations OS**
+
+✅ Sales, Marketing, HR, Ops Agents &nbsp;·&nbsp; ✅ Workflow Automation &nbsp;·&nbsp; ✅ Executive Reporting
+✅ Cross-Department AI Orchestration &nbsp;·&nbsp; ✅ Business Process Intelligence
+
+[`📁 Repository`](#)
+
+```mermaid
+%%{init: {'theme':'dark', 'themeVariables': {'primaryColor':'#12141c','primaryTextColor':'#e8e8e8','primaryBorderColor':'#ff9d4d','lineColor':'#ff9d4d'}}}%%
+flowchart TD
+    O[Central AI Orchestrator] --> S[Sales Agent]
+    O --> M[Marketing Agent]
+    O --> C[Customer Service Agent]
+    O --> H[HR Agent]
+    O --> P[Operations Agent]
+    S --> R[Unified Reporting Layer]
+    M --> R
+    C --> R
+    H --> R
+    P --> R
+    R --> E[📈 Executive Reporting Dashboard]
+    O -.->|Shared Context & Memory| S
+    O -.->|Shared Context & Memory| M
+    O -.->|Shared Context & Memory| P
+```
+
+<br/>
+
+### RAG-Based Enterprise Search
+**Intelligent Knowledge Retrieval System**
+
+✅ Document Ingestion Pipeline &nbsp;·&nbsp; ✅ Vector Search & Semantic Retrieval &nbsp;·&nbsp; ✅ Contextual Q&A
+✅ Role-Based Access &nbsp;·&nbsp; ✅ Enterprise Ready
+
+[`📁 Repository`](#)
+
+```mermaid
+%%{init: {'theme':'dark', 'themeVariables': {'primaryColor':'#12141c','primaryTextColor':'#e8e8e8','primaryBorderColor':'#2dd4bf','lineColor':'#2dd4bf'}}}%%
+flowchart LR
+    A[(Enterprise Documents)] --> B[Ingestion & Chunking]
+    B --> C[Embedding Generation]
+    C --> D[(Vector Database)]
+    E[User Query] --> F[Query Embedding]
+    F --> G[Semantic Retrieval]
+    D --> G
+    G --> H[Context-Aware LLM]
+    H --> I[Role-Based Access Filter]
+    I --> J[✅ Grounded Answer]
+```
+
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" height="1">
+
+## `｜` Tech Stack
+
+<table width="100%">
+<tr>
+<td valign="top" width="16.6%">
+
+**🧠 LLMs & AI**
+<sub>
+OpenAI<br/>Claude<br/>Azure OpenAI<br/>LangChain<br/>LangGraph
+</sub>
+
+</td>
+<td valign="top" width="16.6%">
+
+**🎙️ Voice AI**
+<sub>
+Vapi<br/>Twilio<br/>ElevenLabs<br/>Speech-to-Text<br/>Text-to-Speech
+</sub>
+
+</td>
+<td valign="top" width="16.6%">
+
+**⌨️ Backend**
+<sub>
+Python<br/>FastAPI<br/>Flask<br/>REST APIs<br/>Webhooks
+</sub>
+
+</td>
+<td valign="top" width="16.6%">
+
+**🗄️ Databases**
+<sub>
+PostgreSQL<br/>MongoDB<br/>Redis<br/>Vector DBs<br/>MySQL
+</sub>
+
+</td>
+<td valign="top" width="16.6%">
+
+**☁️ Cloud & DevOps**
+<sub>
+AWS<br/>Azure<br/>Docker<br/>Kubernetes<br/>GitHub Actions
+</sub>
+
+</td>
+<td valign="top" width="16.6%">
+
+**🛠️ Tools**
+<sub>
+Linux<br/>Git<br/>GitHub<br/>CI/CD<br/>Postman
+</sub>
+
+</td>
+</tr>
+</table>
+
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" height="1">
+
+## `｜` System Architecture & Design
+
+```mermaid
+%%{init: {'theme':'dark', 'themeVariables': {'primaryColor':'#12141c','primaryTextColor':'#e8e8e8','primaryBorderColor':'#6e6eff','lineColor':'#6e6eff'}}}%%
+flowchart LR
+    A[👤 User / Client] --> B[🗣️ Voice / Text Input]
+    B --> C[STT]
+    C --> D[🧠 LLM / Reasoning\nOpenAI · Claude]
+    D --> E[(Memory\nRedis · Vector DB)]
+    E --> F[🤖 Tools & Agents]
+    F --> G[🔗 APIs & Systems\nCRM · DB · APIs]
+    G --> H[⚡ Automation & Action]
+    H --> I[📊 Analytics & Insights]
+    I -.->|Continuous Learning & Improvement| D
+```
+
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" height="1">
+
+## `｜` GitHub Analytics
+
+<div align="center">
+
+<img width="32%" src="https://github-readme-stats.vercel.app/api?username=REPLACE_WITH_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=05060A&title_color=E8E8E8&text_color=B8B8B8&icon_color=6E6EFF&ring_color=6E6EFF" />
+<img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=REPLACE_WITH_GITHUB_USERNAME&layout=compact&theme=dark&hide_border=true&bg_color=05060A&title_color=E8E8E8&text_color=B8B8B8" />
+<img width="32%" src="https://streak-stats.demolab.com?user=REPLACE_WITH_GITHUB_USERNAME&theme=dark&hide_border=true&background=05060A&ring=6E6EFF&fire=A06EFF&currStreakLabel=E8E8E8" />
 
 <br/><br/>
 
-<sub>Bangalore, India · Remote-first · Available for UAE / US market engagements</sub>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=REPLACE_WITH_GITHUB_USERNAME&theme=react-dark&bg_color=05060A&color=8E8FFA&line=6E6EFF&point=E8E8E8&hide_border=true" />
 
 </div>
 
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" height="1">
+
+## `｜` Let's Connect
+
+<div align="center">
+
+I'm always open to discussing AI architecture, voice AI systems, and impactful opportunities.
+
+<a href="#"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-6E6EFF?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:md.sohail.8618@gmail.com"><img src="https://img.shields.io/badge/Send_an_Email-111111?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
+
+<br/><br/>
+
+> *"The future belongs to those who build intelligent systems that empower humans."*
+> — Mohammed Sohail
+
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:0A0A0A&height=100&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:05060A,50:0A0E17,100:05060A&height=120&section=footer" />
 
 </div>
