@@ -1,275 +1,1117 @@
 <div align="center">
 
-<img width="100%" src="header.png" alt="Mohammed Sohail — AI Solutions Architect" />
-
-<br/><br/>
-
-<a href="https://www.linkedin.com/in/mohammed-sohail-000254201"><img src="https://img.shields.io/badge/LinkedIn-05060A?style=for-the-badge&logo=linkedin&logoColor=3B82F6" /></a>
-<a href="https://github.com/mohammedsohail7790"><img src="https://img.shields.io/badge/GitHub-05060A?style=for-the-badge&logo=github&logoColor=3B82F6" /></a>
-<a href="mailto:md.sohail.8618@gmail.com"><img src="https://img.shields.io/badge/Email-05060A?style=for-the-badge&logo=gmail&logoColor=3B82F6" /></a>
+<img width="100%" src="assets/header.svg" alt="Mohammed Sohail"/>
 
 <br/>
 
-<a href="#"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2600&pause=900&color=3B82F6&background=00000000&center=true&vCenter=true&width=760&lines=Architecting+production-grade+Generative+AI+systems;Voice+AI+%C2%B7+Multi-Agent+Orchestration+%C2%B7+RAG+%C2%B7+Automation;Turning+frontier+LLM+capability+into+dependable+infrastructure" alt="typing-svg" /></a>
+# Mohammed Sohail
+
+### AI Solutions Architect • Generative AI Engineer • Voice AI Engineer • Enterprise AI Systems
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/mohammed-sohail-000254201">
+<img src="https://img.shields.io/badge/LinkedIn-0A0E17?style=for-the-badge&logo=linkedin&logoColor=3B82F6"/>
+</a>
+
+<a href="https://github.com/mohammedsohail7790">
+<img src="https://img.shields.io/badge/GitHub-0A0E17?style=for-the-badge&logo=github&logoColor=ffffff"/>
+</a>
+
+<a href="mailto:md.sohail.8618@gmail.com">
+<img src="https://img.shields.io/badge/Email-0A0E17?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+</a>
+
+<a href="https://yourportfolio.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-0A0E17?style=for-the-badge&logo=vercel&logoColor=3B82F6"/>
+</a>
+
+</p>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=800&color=3B82F6&center=true&vCenter=true&width=900&lines=Building+Enterprise+AI+Systems;Generative+AI+•+Voice+AI+•+Agentic+Workflows;Production+LLM+Infrastructure;Real-Time+AI+Automation;Enterprise+AI+Architecture"/>
 
 </div>
 
-<br/>
+---
 
-<table width="100%">
+# Executive Overview
+
+<table>
 <tr>
-<td align="center" width="20%"><h3>4+</h3><sub>Years of Experience</sub></td>
-<td align="center" width="20%"><h3>15+</h3><sub>AI Systems Delivered</sub></td>
-<td align="center" width="20%"><h3>20+</h3><sub>Production Deployments</sub></td>
-<td align="center" width="20%"><h3>100K+</h3><sub>Calls Automated</sub></td>
-<td align="center" width="20%"><h3>UAE · US</h3><sub>Client Markets</sub></td>
+
+<td width="20%" align="center">
+
+## 🚀
+
+### 4+
+
+Years
+
+Experience
+
+</td>
+
+<td width="20%" align="center">
+
+## 🤖
+
+### 8+
+
+Enterprise
+
+Platforms
+
+</td>
+
+<td width="20%" align="center">
+
+## ⚡
+
+### 25+
+
+Core
+
+Technologies
+
+</td>
+
+<td width="20%" align="center">
+
+## 🏗️
+
+### AI
+
+Architecture
+
+Focus
+
+</td>
+
+<td width="20%" align="center">
+
+## 🌍
+
+India • UAE • US
+
+Remote
+
+</td>
+
 </tr>
 </table>
 
-<br/>
+---
 
-## Profile
+# About Me
 
-**AI Solutions Architect & AI Engineer** with 4+ years of experience designing and shipping Generative AI systems for enterprise and independent clients across the UAE and US markets — spanning Voice AI platforms, multi-agent orchestration, RAG pipelines, and enterprise automation.
+I'm an **AI Solutions Architect** focused on designing enterprise-grade AI platforms that combine Large Language Models, Voice AI, Multi-Agent Systems, Retrieval-Augmented Generation (RAG), and cloud-native infrastructure into scalable production systems.
 
-Currently architecting **Call IQ**, a multi-tenant AI Voice Agent platform, alongside board-level strategic intelligence systems and cross-functional AI operations frameworks. Focused on translating frontier LLM capability into dependable, production-grade infrastructure.
+My work focuses on architecting dependable AI applications—from intelligent voice agents and enterprise automation to strategic decision-support platforms—while emphasizing reliability, maintainability, security, and scalable system design.
 
-<br/>
+---
 
-## Core Expertise
+# Current Focus
 
-<table width="100%">
+| Platform | Status | Description |
+|-----------|--------|-------------|
+| 🚀 Call IQ | Private | Enterprise Multi-Tenant Voice AI Platform |
+| 🏢 AxisOS | Private | Enterprise AI Operating System |
+| 📈 ASIS | Public | Strategic Intelligence Platform |
+| 🏨 HospiQ | Private | Hospitality AI Platform |
+| 🧠 DialMind | Private | Conversational AI Platform |
+| 🌐 Portfolio | Public | Interactive Engineering Portfolio |
+
+---
+
+# Core Expertise
+
+<table>
+
 <tr>
-<td width="25%" valign="top">
 
-**Generative AI**
-<sub>LLM application design, RAG architecture, prompt engineering, model fine-tuning</sub>
+<td width="25%">
 
-</td>
-<td width="25%" valign="top">
+## 🤖 AI Engineering
 
-**Multi-Agent Systems**
-<sub>Agentic workflows, tool-calling orchestration, shared-memory agent hierarchies</sub>
-
-</td>
-<td width="25%" valign="top">
-
-**Voice AI**
-<sub>Real-time conversational pipelines, telephony integration, structured call analytics</sub>
+- OpenAI
+- Claude
+- LangChain
+- LangGraph
+- Prompt Engineering
+- RAG
+- AI Agents
 
 </td>
-<td width="25%" valign="top">
 
-**Enterprise Automation**
-<sub>Workflow orchestration, CRM integration, cloud-native AI infrastructure</sub>
+<td width="25%">
+
+## 🎙 Voice AI
+
+- Twilio
+- Vapi
+- ElevenLabs
+- Deepgram
+- Azure Speech
+- Realtime AI
 
 </td>
+
+<td width="25%">
+
+## ⚙ Backend
+
+- Python
+- FastAPI
+- Flask
+- Node.js
+- REST APIs
+- WebSockets
+
+</td>
+
+<td width="25%">
+
+## ☁ Cloud
+
+- AWS
+- Azure
+- Docker
+- Kubernetes
+- GitHub Actions
+- PostgreSQL
+- Redis
+
+</td>
+
 </tr>
+
 </table>
 
-<br/>
+---
 
-## Featured Systems
 
-<br/>
+# 🚀 Featured Enterprise Platforms
 
-<table width="100%">
-<tr><td>
+> Building production-grade AI platforms focused on Voice AI, Multi-Agent Systems, Enterprise Automation, and Strategic Intelligence.
 
-### Call IQ — Multi-Tenant AI Voice Agent Platform
-<sub>`FLAGSHIP`</sub>
+---
 
-Production voice AI system handling lead qualification, appointment booking, structured call summarization, and emergency detection across HVAC, real estate, and field-service verticals.
+## 🚀 Call IQ
 
-`OpenAI` `Claude` `Vapi` `Twilio` `ElevenLabs` `Python` `FastAPI`
+> **Flagship Private Enterprise Platform**
 
-[Repository →](#) &nbsp;&nbsp;|&nbsp;&nbsp; [Live Demo →](#)
+Enterprise-grade multi-tenant Voice AI platform for service businesses capable of answering calls, qualifying leads, booking appointments, transferring emergencies, and integrating with CRMs.
 
-```mermaid
-%%{init: {'theme':'dark', 'themeVariables': {'primaryColor':'#0A0E17','primaryTextColor':'#E5E7EB','primaryBorderColor':'#3B82F6','lineColor':'#3B82F6','tertiaryColor':'#05060A'}}}%%
-flowchart LR
-    A[Inbound Call] --> B[Twilio Telephony Layer]
-    B --> C[Vapi Voice Orchestration]
-    C --> D[Speech-to-Text]
-    D --> E["LLM Reasoning Engine
-    (OpenAI / Claude)"]
-    E --> F{Intent Classification}
-    F -->|Lead| G[Lead Qualification Agent]
-    F -->|Booking| H[Appointment Scheduler]
-    F -->|Emergency| I[Emergency Detection & Escalation]
-    F -->|Support| J[Issue Classification Agent]
-    G --> K[(Structured Data Store)]
-    H --> K
-    I --> K
-    J --> K
-    K --> L[Call Summarization Engine]
-    L --> M[ElevenLabs Text-to-Speech]
-    M --> N[Caller Response]
-    K --> O[CRM Integration Layer]
-    O --> P[(Multi-Tenant Analytics DB)]
+**Status**
+
+![Private](https://img.shields.io/badge/Repository-Private-blue?style=flat-square)
+![Production](https://img.shields.io/badge/Status-Production-success?style=flat-square)
+![TypeScript](https://img.shields.io/badge/Frontend-TypeScript-3178C6?style=flat-square)
+![FastAPI](https://img.shields.io/badge/Backend-FastAPI-009688?style=flat-square)
+
+### Tech Stack
+
+```text
+OpenAI
+Claude
+Twilio
+Vapi
+ElevenLabs
+FastAPI
+Python
+Redis
+PostgreSQL
+Docker
+Azure
+AWS
 ```
 
-</td></tr>
-</table>
+### Key Features
 
-<br/>
+- Multi-Tenant Architecture
+- AI Voice Receptionist
+- Appointment Booking
+- Lead Qualification
+- CRM Integration
+- Emergency Detection
+- Real-Time Analytics
+- AI Call Summaries
+- Human Transfer
+- Voice Memory
 
-<table width="100%">
-<tr><td>
+<details>
 
-### AI Strategic Intelligence System
-Board-level AI decision support producing SWOT analysis, market opportunity evaluation, competitive intelligence, and structured strategic recommendations.
-
-`OpenAI` `Claude` `Multi-Agent Workflows`
-
-[Repository →](#)
+<summary><b>🏗 Architecture</b></summary>
 
 ```mermaid
-%%{init: {'theme':'dark', 'themeVariables': {'primaryColor':'#0A0E17','primaryTextColor':'#E5E7EB','primaryBorderColor':'#3B82F6','lineColor':'#3B82F6'}}}%%
+flowchart LR
+
+subgraph Client
+A[Customer]
+end
+
+subgraph Voice
+B[Twilio]
+C[Vapi]
+end
+
+subgraph AI
+D[Speech-to-Text]
+E[OpenAI / Claude]
+F[Agent Engine]
+end
+
+subgraph Memory
+G[(Redis)]
+H[(Vector Store)]
+end
+
+subgraph Business
+I[CRM]
+J[(PostgreSQL)]
+K[Analytics]
+end
+
+A --> B
+B --> C
+C --> D
+D --> E
+E --> F
+F --> G
+F --> H
+F --> I
+I --> J
+J --> K
+```
+
+</details>
+
+---
+
+## 🧠 ASIS
+
+> **Public Repository**
+
+AI Strategic Intelligence System for executive decision support, SWOT analysis, market intelligence, competitive analysis, and board-level recommendations.
+
+### Repository
+
+https://github.com/mohammedsohail7790/ASIS
+
+### Highlights
+
+- Multi-Agent Reasoning
+- SWOT Engine
+- Strategic Analysis
+- Business Intelligence
+- Executive Reporting
+
+<details>
+
+<summary><b>Architecture</b></summary>
+
+```mermaid
 flowchart TD
-    A[(Business & Market Data)] --> B[Data Ingestion Layer]
-    B --> C[Market Analysis Agent]
-    B --> D[Competitive Intelligence Agent]
-    B --> E[SWOT Reasoning Agent]
-    B --> F[Opportunity Evaluation Agent]
-    C --> G[Strategic Reasoning Orchestrator]
-    D --> G
-    E --> G
-    F --> G
-    G --> H[Board-Level Decision Framework]
-    H --> I[Strategic Recommendations Engine]
-    I --> J[Executive Report Output]
+
+A[Business Data]
+
+A --> B[Market Agent]
+A --> C[SWOT Agent]
+A --> D[Competitor Agent]
+A --> E[Finance Agent]
+
+B --> F[Strategic Engine]
+C --> F
+D --> F
+E --> F
+
+F --> G[Executive Report]
+
 ```
 
-</td></tr>
-</table>
+</details>
 
-<br/>
+---
 
-<table width="100%">
-<tr><td>
+## 🌐 Portfolio
 
-### Business Operations AI Platform
-Multi-agent business operations system coordinating Sales, Marketing, Customer Service, HR, and Operations with unified executive reporting.
+> **Public Repository**
 
-`OpenAI` `Multi-Agent Systems` `Workflow Automation`
+Interactive developer portfolio showcasing enterprise AI projects, engineering philosophy, architecture, and technical capabilities.
 
-[Repository →](#)
+### Repository
+
+https://github.com/mohammedsohail7790/Portfolio
+
+### Built With
+
+- Next.js
+- TypeScript
+- TailwindCSS
+- Framer Motion
+- GSAP
+
+---
+
+# 🔒 Enterprise Platforms
+
+The following enterprise platforms are actively developed but remain private repositories.
+
+| Platform | Description |
+|----------|-------------|
+| 🚀 Call IQ Frontend | Enterprise SaaS Dashboard |
+| 🏢 AxisOS | Enterprise AI Operating System |
+| 🏨 HospiQ | Hospitality AI Platform |
+| 🧠 DialMind | Conversational AI Platform |
+| 🎨 Pixel Perfect Clone | Advanced Frontend Engineering |
+
+---
+
+# 🏗 Engineering Principles
+
+✔ AI-first Architecture
+
+✔ Domain-Driven Design
+
+✔ Multi-Tenant Systems
+
+✔ Event-Driven Communication
+
+✔ Clean Architecture
+
+✔ Enterprise Security
+
+✔ Cloud Native
+
+✔ CI/CD
+
+✔ Infrastructure as Code
+
+✔ Scalability
+
+✔ Reliability
+
+✔ Observability
+
+# 🏗 Enterprise Architecture Gallery
+
+---
+
+# Call IQ — Enterprise Voice AI Platform
 
 ```mermaid
-%%{init: {'theme':'dark', 'themeVariables': {'primaryColor':'#0A0E17','primaryTextColor':'#E5E7EB','primaryBorderColor':'#3B82F6','lineColor':'#3B82F6'}}}%%
+flowchart LR
+
+%% Client Layer
+subgraph CLIENT["Client Layer"]
+    Caller[📞 Customer]
+    Agent[👨‍💼 Business Owner]
+end
+
+%% Communication
+subgraph COMM["Communication Layer"]
+    Twilio[Twilio]
+    Vapi[Vapi]
+    WebSocket[Realtime Gateway]
+end
+
+%% AI
+subgraph AI["AI Intelligence Layer"]
+    STT[Speech-to-Text]
+    LLM[OpenAI / Claude]
+    Memory[Conversation Memory]
+    Intent[Intent Engine]
+    Tools[Tool Calling]
+    TTS[ElevenLabs]
+end
+
+%% Business
+subgraph BUSINESS["Business Services"]
+    CRM[CRM Integration]
+    Calendar[Calendar]
+    Booking[Appointment Engine]
+    Lead[Lead Engine]
+    KB[Knowledge Base]
+end
+
+%% Storage
+subgraph DATA["Data Layer"]
+    PostgreSQL[(PostgreSQL)]
+    Redis[(Redis)]
+    Vector[(Vector DB)]
+end
+
+%% Analytics
+subgraph ANALYTICS["Analytics"]
+    Dashboard[Dashboard]
+    Reports[Reports]
+    Insights[AI Insights]
+end
+
+Caller --> Twilio
+Twilio --> Vapi
+Vapi --> WebSocket
+
+WebSocket --> STT
+STT --> LLM
+LLM --> Memory
+Memory --> Intent
+Intent --> Tools
+Tools --> CRM
+Tools --> Calendar
+Tools --> Booking
+Tools --> Lead
+Tools --> KB
+
+CRM --> PostgreSQL
+Booking --> PostgreSQL
+Lead --> PostgreSQL
+
+Memory --> Redis
+KB --> Vector
+
+PostgreSQL --> Dashboard
+Redis --> Dashboard
+Vector --> Dashboard
+
+Dashboard --> Reports
+Reports --> Insights
+
+Insights --> TTS
+TTS --> Caller
+```
+
+---
+
+# Call IQ ER Diagram
+
+```mermaid
+erDiagram
+
+TENANT ||--o{ USER : owns
+TENANT ||--o{ AGENT : contains
+TENANT ||--o{ CALL : receives
+
+AGENT ||--o{ CONVERSATION : manages
+CONVERSATION ||--o{ MESSAGE : stores
+
+CALL ||--|| LEAD : creates
+CALL ||--|| APPOINTMENT : books
+
+AGENT ||--o{ KNOWLEDGE : accesses
+
+USER {
+uuid id
+string name
+string email
+}
+
+TENANT {
+uuid id
+string business
+string plan
+}
+
+AGENT {
+uuid id
+string name
+string role
+}
+
+CALL {
+uuid id
+datetime started
+string status
+}
+
+LEAD {
+uuid id
+string customer
+string phone
+}
+
+APPOINTMENT {
+uuid id
+datetime schedule
+}
+
+MESSAGE {
+uuid id
+string role
+text content
+}
+
+KNOWLEDGE {
+uuid id
+string title
+text embedding
+}
+```
+
+---
+
+# Call IQ Sequence Diagram
+
+```mermaid
+sequenceDiagram
+
+participant Customer
+participant Twilio
+participant Vapi
+participant LLM
+participant CRM
+participant Database
+
+Customer->>Twilio: Incoming Call
+
+Twilio->>Vapi: Stream Audio
+
+Vapi->>LLM: Speech
+
+LLM->>CRM: Lookup Customer
+
+CRM-->>LLM: Customer Info
+
+LLM->>Database: Save Transcript
+
+LLM->>Twilio: AI Response
+
+Twilio->>Customer: Voice Response
+```
+
+---
+
+# Call IQ Deployment
+
+```mermaid
+flowchart TB
+
+Client
+
+Cloudflare
+
+LoadBalancer
+
+FastAPI
+
+Redis
+
+PostgreSQL
+
+OpenAI
+
+Claude
+
+Twilio
+
+ElevenLabs
+
+Dashboard
+
+Client --> Cloudflare
+
+Cloudflare --> LoadBalancer
+
+LoadBalancer --> FastAPI
+
+FastAPI --> Redis
+
+FastAPI --> PostgreSQL
+
+FastAPI --> OpenAI
+
+FastAPI --> Claude
+
+FastAPI --> Twilio
+
+FastAPI --> ElevenLabs
+
+PostgreSQL --> Dashboard
+```
+
+---
+
+# ASIS Architecture
+
+```mermaid
+flowchart LR
+
+BusinessData
+
+MarketAgent
+
+SWOTAgent
+
+FinanceAgent
+
+OperationsAgent
+
+CompetitorAgent
+
+StrategicReasoner
+
+DecisionEngine
+
+ExecutiveReport
+
+BusinessData --> MarketAgent
+
+BusinessData --> SWOTAgent
+
+BusinessData --> FinanceAgent
+
+BusinessData --> OperationsAgent
+
+BusinessData --> CompetitorAgent
+
+MarketAgent --> StrategicReasoner
+
+SWOTAgent --> StrategicReasoner
+
+FinanceAgent --> StrategicReasoner
+
+OperationsAgent --> StrategicReasoner
+
+CompetitorAgent --> StrategicReasoner
+
+StrategicReasoner --> DecisionEngine
+
+DecisionEngine --> ExecutiveReport
+```
+
+---
+
+# Enterprise AI Ecosystem
+
+```mermaid
 flowchart TD
-    O[Central AI Orchestrator] --> S[Sales Agent]
-    O --> M[Marketing Agent]
-    O --> C[Customer Service Agent]
-    O --> H[HR Agent]
-    O --> P[Operations Agent]
-    S --> R[Unified Reporting Layer]
-    M --> R
-    C --> R
-    H --> R
-    P --> R
-    R --> E[Executive Reporting Dashboard]
-    O -.->|Shared Context & Memory| S
-    O -.->|Shared Context & Memory| M
-    O -.->|Shared Context & Memory| P
+
+CallIQ
+
+AxisOS
+
+ASIS
+
+HospiQ
+
+DialMind
+
+SharedMemory
+
+OpenAI
+
+Claude
+
+Redis
+
+PostgreSQL
+
+Cloud
+
+CallIQ --> SharedMemory
+
+AxisOS --> SharedMemory
+
+ASIS --> SharedMemory
+
+HospiQ --> SharedMemory
+
+DialMind --> SharedMemory
+
+SharedMemory --> Redis
+
+SharedMemory --> PostgreSQL
+
+SharedMemory --> OpenAI
+
+SharedMemory --> Claude
+
+OpenAI --> Cloud
+
+Claude --> Cloud
 ```
 
-</td></tr>
-</table>
+---
 
-<br/>
 
-<table width="100%">
-<tr><td>
+# ⚡ Technology Ecosystem
 
-### RAG-Based Enterprise Search
-Semantic search and retrieval-augmented generation system for enterprise knowledge bases, with role-based access and grounded contextual Q&A.
+> Enterprise-grade technologies used to build scalable AI platforms, intelligent automation, and cloud-native systems.
 
-`RAG` `Vector Search` `Azure AI`
+---
 
-[Repository →](#)
+## 🤖 AI & LLM Engineering
 
-```mermaid
-%%{init: {'theme':'dark', 'themeVariables': {'primaryColor':'#0A0E17','primaryTextColor':'#E5E7EB','primaryBorderColor':'#3B82F6','lineColor':'#3B82F6'}}}%%
-flowchart LR
-    A[(Enterprise Documents)] --> B[Ingestion & Chunking]
-    B --> C[Embedding Generation]
-    C --> D[(Vector Database)]
-    E[User Query] --> F[Query Embedding]
-    F --> G[Semantic Retrieval]
-    D --> G
-    G --> H[Context-Aware LLM]
-    H --> I[Role-Based Access Filter]
-    I --> J[Grounded Answer]
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch"/>
+
+</p>
+
+| Area | Technologies |
+|------|--------------|
+| LLMs | OpenAI • Claude • Azure OpenAI |
+| Frameworks | LangChain • LangGraph |
+| AI Systems | RAG • AI Agents • Prompt Engineering |
+| Search | Vector Search • Semantic Retrieval |
+| Automation | Tool Calling • Workflow Orchestration |
+
+---
+
+## 🎙 Voice AI
+
+| Platform | Usage |
+|-----------|-------|
+| Twilio | Telephony |
+| Vapi | Voice Orchestration |
+| ElevenLabs | Text-to-Speech |
+| Deepgram | Speech Recognition |
+| Azure Speech | Speech Services |
+
+---
+
+## ⚙ Backend Engineering
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,nodejs,fastapi,flask"/>
+
+</p>
+
+- FastAPI
+- Python
+- Node.js
+- REST APIs
+- WebSockets
+- Authentication
+- Webhooks
+- Background Workers
+
+---
+
+## 🌐 Frontend Engineering
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind"/>
+
+</p>
+
+- React
+- Next.js
+- TypeScript
+- TailwindCSS
+- Framer Motion
+- Responsive UI
+
+---
+
+## 🗄 Data & Storage
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql"/>
+
+</p>
+
+- PostgreSQL
+- MongoDB
+- Redis
+- MySQL
+- Vector Databases
+
+---
+
+## ☁ Cloud & DevOps
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,githubactions"/>
+
+</p>
+
+- AWS
+- Azure
+- Docker
+- Kubernetes
+- CI/CD
+- GitHub Actions
+
+---
+
+# 🧠 AI Capability Matrix
+
+| Capability | Experience |
+|------------|------------|
+| Voice AI | ████████████ |
+| LLM Applications | ████████████ |
+| AI Agents | ████████████ |
+| Multi-Agent Systems | ███████████ |
+| Enterprise Automation | ███████████ |
+| RAG Systems | ███████████ |
+| Cloud Architecture | ██████████ |
+| Backend Engineering | ████████████ |
+
+---
+
+# 🚀 Current Engineering Focus
+
+```text
+✔ Enterprise Voice AI
+
+✔ Multi-Agent Systems
+
+✔ AI Operating Systems
+
+✔ Strategic Intelligence
+
+✔ Enterprise Automation
+
+✔ LLM Infrastructure
+
+✔ Cloud Native Architecture
+
+✔ AI Workflow Orchestration
+
+✔ Knowledge Systems
+
+✔ Production AI
 ```
 
-</td></tr>
-</table>
+---
 
-<br/>
+# 📈 Engineering Journey
 
-## Technology Stack
+```text
+2022
 
-<table width="100%">
-<tr>
-<td valign="top" width="16.6%"><strong>LLMs & AI</strong><br/><sub>OpenAI<br/>Claude<br/>Azure OpenAI<br/>LangChain<br/>LangGraph</sub></td>
-<td valign="top" width="16.6%"><strong>Voice AI</strong><br/><sub>Vapi<br/>Twilio<br/>ElevenLabs<br/>Speech-to-Text<br/>Text-to-Speech</sub></td>
-<td valign="top" width="16.6%"><strong>Backend</strong><br/><sub>Python<br/>FastAPI<br/>Flask<br/>REST APIs<br/>Webhooks</sub></td>
-<td valign="top" width="16.6%"><strong>Databases</strong><br/><sub>PostgreSQL<br/>MongoDB<br/>Redis<br/>Vector DBs<br/>MySQL</sub></td>
-<td valign="top" width="16.6%"><strong>Cloud & DevOps</strong><br/><sub>AWS<br/>Azure<br/>Docker<br/>Kubernetes<br/>GitHub Actions</sub></td>
-<td valign="top" width="16.6%"><strong>Tools</strong><br/><sub>Linux<br/>Git<br/>GitHub<br/>CI/CD<br/>Postman</sub></td>
-</tr>
-</table>
-
-<br/>
-
-## System Architecture
-
-```mermaid
-%%{init: {'theme':'dark', 'themeVariables': {'primaryColor':'#0A0E17','primaryTextColor':'#E5E7EB','primaryBorderColor':'#3B82F6','lineColor':'#3B82F6'}}}%%
-flowchart LR
-    A[User / Client] --> B[Voice / Text Input]
-    B --> C[Speech-to-Text]
-    C --> D["LLM Reasoning
-    (OpenAI · Claude)"]
-    D --> E[(Memory — Redis · Vector DB)]
-    E --> F[Tools & Agents]
-    F --> G[APIs & Systems — CRM · DB]
-    G --> H[Automation & Action]
-    H --> I[Analytics & Insights]
-    I -.->|Continuous Learning| D
+AWS • DevOps
+      │
+      ▼
+Backend Engineering
+      │
+      ▼
+Generative AI
+      │
+      ▼
+Voice AI
+      │
+      ▼
+Multi-Agent Systems
+      │
+      ▼
+Enterprise AI Platforms
+      │
+      ▼
+AI Solutions Architect
 ```
 
-<br/>
+---
 
-## GitHub Analytics
+# 🏆 Engineering Principles
+
+✔ Clean Architecture
+
+✔ Domain Driven Design
+
+✔ API First
+
+✔ Event Driven Systems
+
+✔ Enterprise Security
+
+✔ Cloud Native
+
+✔ Scalability
+
+✔ Reliability
+
+✔ Observability
+
+✔ AI Governance
+
+✔ Production Readiness
+
+✔ Documentation First
+
+---
+
+# 🌍 Domains
+
+| Industry | Solutions |
+|----------|-----------|
+| HVAC | Voice AI |
+| Hospitality | AI Automation |
+| Real Estate | AI Assistants |
+| Enterprise | Strategic Intelligence |
+| SaaS | Multi-Tenant Platforms |
+| Customer Support | AI Agents |
+
+---
+# 📊 Engineering Metrics
 
 <div align="center">
 
-<img width="32%" src="https://github-readme-stats.vercel.app/api?username=mohammedsohail7790&show_icons=true&theme=dark&hide_border=true&bg_color=05060A&title_color=E5E7EB&text_color=94A3B8&icon_color=3B82F6&ring_color=3B82F6" />
-<img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedsohail7790&layout=compact&theme=dark&hide_border=true&bg_color=05060A&title_color=E5E7EB&text_color=94A3B8" />
-<img width="32%" src="https://streak-stats.demolab.com?user=mohammedsohail7790&theme=dark&hide_border=true&background=05060A&ring=3B82F6&fire=3B82F6&currStreakLabel=E5E7EB" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mohammedsohail7790&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true&count_private=true&rank_icon=github"/>
 
-<br/><br/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=mohammedsohail7790&hide_border=true&theme=transparent"/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mohammedsohail7790&theme=react-dark&bg_color=05060A&color=3B82F6&line=3B82F6&point=E5E7EB&hide_border=true" />
+<br><br>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedsohail7790&layout=compact&hide_border=true&theme=transparent"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohammedsohail7790&theme=github_dark"/>
 
 </div>
 
-<br/>
+---
 
-## Contact
+# 📈 Contribution Activity
+
+<p align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mohammedsohail7790&theme=github-compact&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=mohammedsohail7790&theme=algolia&column=4&margin-w=15&margin-h=15&no-frame=true"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/mohammedsohail7790/mohammedsohail7790/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# 📚 Certifications
+
+| Provider | Certifications |
+|-----------|----------------|
+| Microsoft | Azure Fundamentals |
+| Google Cloud | Generative AI |
+| IBM | Cybersecurity |
+| Cisco | Networking & Security |
+| AWS | Cloud & DevOps |
+
+---
+
+# 🚀 Currently Exploring
+
+- AI Operating Systems
+- Agentic AI
+- Enterprise AI Governance
+- Voice AI Infrastructure
+- Model Context Protocol (MCP)
+- AI Workflow Automation
+- Multi-Agent Memory
+- Enterprise Knowledge Graphs
+
+---
+
+# 🤝 Open For
+
+<table>
+
+<tr>
+
+<td align="center">
+
+🏢
+
+Enterprise AI
+
+Architecture
+
+</td>
+
+<td align="center">
+
+🤖
+
+Generative AI
+
+Consulting
+
+</td>
+
+<td align="center">
+
+🎙
+
+Voice AI
+
+Platforms
+
+</td>
+
+<td align="center">
+
+⚙️
+
+AI Automation
+
+</td>
+
+<td align="center">
+
+🚀
+
+Founding AI
+
+Engineer
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 🌍 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/mohammed-sohail-000254201">
+
+<img src="https://img.shields.io/badge/LinkedIn-0A0E17?style=for-the-badge&logo=linkedin&logoColor=3B82F6"/>
+
+</a>
+
+<a href="mailto:md.sohail.8618@gmail.com">
+
+<img src="https://img.shields.io/badge/Email-0A0E17?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+
+</a>
+
+<a href="https://github.com/mohammedsohail7790">
+
+<img src="https://img.shields.io/badge/GitHub-0A0E17?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+</p>
+
+---
 
 <div align="center">
 
-Open to contract engagements, technical advisory, and founding AI architect roles.
+### 💡 "Building AI systems that are scalable, reliable, and production-ready."
 
-<a href="https://www.linkedin.com/in/mohammed-sohail-000254201"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-3B82F6?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:md.sohail.8618@gmail.com"><img src="https://img.shields.io/badge/Send_an_Email-0A0E17?style=for-the-badge&logo=gmail&logoColor=3B82F6" /></a>
-
-<br/><br/>
-
-<sub>Bangalore, India · Remote-first · Available for UAE / US market engagements</sub>
+<img width="100%" src="assets/footer.svg"/>
 
 </div>
+
