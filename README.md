@@ -3,127 +3,138 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" height="28" width="28" style="filter: invert(45%) sepia(90%) saturate(1352%) hue-rotate(190deg);"/></a>
-  &nbsp;
-  <a href="mailto:md.sohail.8618@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" height="28" width="28" style="filter: invert(29%) sepia(94%) saturate(1352%) hue-rotate(340deg);"/></a>
-  &nbsp;
-  <a href="https://github.com/YOUR-USERNAME"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" height="28" width="28"/></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=800&lines=Building+AI+Agents+that+run+real+businesses;Architecting+Multi-Agent+Systems+%26+Voice+AI;OpenAI+%7C+Claude+%7C+RAG+%7C+Vapi+%7C+Twilio+%7C+ElevenLabs;Currently+Architecting+Call+IQ+%E2%80%94+Multi-Tenant+Voice+AI+Platform"/>
 </p>
 
-<h3 align="center">🛠️ Building AI Voice Agents, Multi-Agent Systems & RAG Platforms for clients across UAE 🇦🇪, the US 🇺🇸 & beyond</h3>
+<p align="center">
+  <a href="https://linkedin.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/></a>
+  &nbsp;
+  <a href="https://github.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/></a>
+  &nbsp;
+  <a href="mailto:md.sohail.8618@gmail.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40"/></a>
+</p>
 
-<br>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mohammedsohail&label=Profile%20Views&color=58A6FF&style=flat" alt="profile views"/>
+</p>
 
-### 🚀 About Me
+---
+
+### 🧠 About Me
 
 ```yaml
-role: AI Engineer & Solutions Architect
+name: Mohammed Sohail
+role: AI Solutions Architect / AI Engineer / Generative AI Consultant
+based_in: Bangalore, India
+current_focus: >
+  Architecting Call IQ — a multi-tenant AI Voice Agent platform for
+  lead qualification, appointment booking, call analytics & business automation
 experience: 4+ years
-location: Bangalore, India (Remote / Freelance)
-currently_building: Call IQ — a multi-tenant AI Voice Agent platform
-focus:
+specialties:
   - Generative AI & LLM-powered applications
   - Multi-Agent Systems & AI Orchestration
   - Voice AI (Vapi, Twilio, ElevenLabs)
-  - RAG pipelines & Vector Search
-  - AI-driven Business Automation
-open_to: independent contractor engagements, 1:1 with founders & business owners
+  - RAG & Vector Search Systems
+  - Enterprise Automation & Business Intelligence Platforms
+availability: Open to independent consulting engagements (UAE / US / Global remote)
 ```
 
-- 🔭 Currently architecting **Call IQ**, a multi-tenant AI Voice Agent platform for lead qualification, appointment booking, and call analytics
-- 🧠 Designing **multi-agent business operations systems** across Sales, Marketing, HR, and Executive Reporting
-- 🌱 Deep in RAG, vector databases, and prompt engineering pipelines for enterprise-grade retrieval
-- 🤝 Looking to collaborate with founders and business owners who need AI systems that actually ship
-- 📫 Reach me at **md.sohail.8618@gmail.com**
+---
 
-<br>
+### ⚡ What I Build
 
-### 🧰 Tech Stack
+- 🎙️ **AI Voice Agents** — end-to-end conversational pipelines that answer calls, qualify leads, and book appointments
+- 🤝 **Multi-Agent Systems** — Sales, Marketing, HR, Ops & Executive Reporting agents working together
+- 📚 **RAG & Knowledge Retrieval** — production-grade retrieval systems on vector databases
+- 🏗️ **AI Orchestration Frameworks** — LLM-driven workflow automation with API-first architecture
+- 📊 **Strategic Intelligence Systems** — board-level decision support powered by structured AI reasoning
+
+---
+
+### 🛠️ Tech Stack
+
+**Generative AI & LLMs**
+
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/Anthropic%20Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/> <img src="https://img.shields.io/badge/Azure%20OpenAI-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white"/> <img src="https://img.shields.io/badge/RAG-6E56CF?style=for-the-badge"/> <img src="https://img.shields.io/badge/Vector%20DBs-FF6B6B?style=for-the-badge"/>
+
+**Voice AI**
+
+<img src="https://img.shields.io/badge/Vapi-000000?style=for-the-badge"/> <img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white"/> <img src="https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge"/>
+
+**Backend & APIs**
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="45" height="45"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" title="FastAPI" alt="FastAPI" width="45" height="45"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="45" height="45"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="45" height="45"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="45" height="45"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="45" height="45"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="45" height="45"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="45" height="45"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" title="Redis" alt="Redis" width="45" height="45"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="45" height="45"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" alt="Kubernetes" width="45" height="45"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="45" height="45"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="45" height="45"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="45" height="45"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45"/>
 </p>
 
-**AI / LLM Stack:** OpenAI GPT-4 · Anthropic Claude · Azure OpenAI · RAG · Vector Databases · Prompt Engineering · AI Agents · Multi-Agent Orchestration
+**Cloud & DevOps**
 
-**Voice AI:** Vapi · Twilio · ElevenLabs · Speech-to-Text · Text-to-Speech · Conversational AI
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45"/>
+</p>
 
-<br>
+**Databases**
 
-### 🏗️ Featured Projects
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="45" height="45"/>
+</p>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+---
 
-**🎙️ [Call IQ](#) — Multi-Tenant AI Voice Agent Platform**
+### 🚀 Featured Project — Call IQ
 
-Multi-tenant AI voice platform for customer engagement and business automation. AI receptionists that answer calls, book appointments, qualify leads, and generate call summaries — built for HVAC, plumbing, electrical, and real estate industries.
+> **Multi-Tenant AI Voice Agent Platform** · `OpenAI` `Vapi` `Twilio` `ElevenLabs` `Python`
 
-`OpenAI` `Vapi` `Twilio` `ElevenLabs` `Python`
+An AI receptionist platform that answers calls, qualifies leads, books appointments, classifies issues, detects emergencies, and generates structured call summaries — built with CRM-ready architecture for HVAC, Plumbing, Electrical, and Real Estate businesses.
 
-</td>
-<td width="50%" valign="top">
+---
 
-**🧭 AI Strategic Intelligence System**
+### 💼 Currently
 
-Board-of-directors style business intelligence system with structured reasoning workflows for SWOT analysis, market opportunity assessment, and strategic recommendations.
+```yaml
+role: AI Consultant (Contract) — Dubai, UAE (Remote)
+building:
+  - AI Strategic Intelligence System (board-level decision framework)
+  - Multi-agent Business Operations System (Sales / Marketing / CS / HR / Ops)
+open_to: New independent consulting engagements globally
+```
 
-`OpenAI` `Claude` `Multi-Agent Workflows`
+---
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**⚙️ Business Operations AI Platform**
-
-Multi-agent system spanning Sales, Marketing, Customer Service, HR, and Operations, with business process automation and executive reporting workflows.
-
-`OpenAI` `Multi-Agent Systems`
-
-</td>
-<td width="50%" valign="top">
-
-**📚 RAG-Based Documentation Generator**
-
-Automated technical documentation generation using semantic search and knowledge retrieval, improving accuracy through context-aware responses.
-
-`RAG` `Vector Search` `LLMs`
-
-</td>
-</tr>
-</table>
-
-<br>
-
-### 📈 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mohammedsohail&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedsohail&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=tokyonight&hide_border=true" width="60%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammedsohail&theme=tokyonight&hide_border=true"/>
 </p>
 
-<br>
+<p align="center">
+  <img src="https://github-contribution-grid-snake.vercel.app/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
+
+> Replace every `mohammedsohail` placeholder above with your actual GitHub username, and follow the Snake Game GitHub Actions setup (see below) to activate the contribution snake.
+
+---
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 </p>
+
+<h3 align="center">💬 Let's build something intelligent together</h3>
+<p align="center">📩 md.sohail.8618@gmail.com &nbsp;|&nbsp; 📍 Bangalore, India (Remote-first)</p>
